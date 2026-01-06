@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielkorkin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=danielkorkin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # About Me
